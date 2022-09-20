@@ -11,6 +11,7 @@
 Features :- 
 - [x] can use up to 1k threads on 2009 pc.
 - [x] proxyless.
+- [x] saves available users in .txt file 
 - [x] lightweight.
 - [ ] racist. 
 
